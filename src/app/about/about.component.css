@@ -1,0 +1,9 @@
+.main {
+    background-color: #1ABC9C;
+}
+
+.line {
+    height: .2rem;
+    width: 6rem;
+    background-color: white;
+}

@@ -1,0 +1,12 @@
+.line {
+    height: .2rem;
+    width: 6rem;
+    /* background-color:; */
+}
+
+input,
+textarea {
+    border: none;
+    /* border-bottom-color: green; */
+    border-bottom: 1px solid black;
+}

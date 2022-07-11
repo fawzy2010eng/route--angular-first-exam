@@ -1,0 +1,14 @@
+.main {
+    background-color: #1ABC9C;
+}
+
+img {
+    width: 20rem;
+    height: 20rem;
+}
+
+.line {
+    background-color: white;
+    height: .2rem;
+    width: 6rem;
+}
